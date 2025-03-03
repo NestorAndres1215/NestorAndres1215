@@ -1,14 +1,18 @@
-# 👋 ¡Hola, soy Néstor Andrés!  
+<h1 align="center">👋 ¡Hola, soy Néstor Andrés! 🚀</h1>
 
-### 💻 Desarrollador Backend & Frontend | Apasionado por la tecnología 🚀  
+<p align="center">
+  <strong>Desarrollador Backend & Frontend | Apasionado por la tecnología</strong>  
+</p>
 
-Soy un desarrollador con experiencia en **Java, Spring Boot, Node.js, MySQL y Angular**. Me encanta crear soluciones eficientes, escalables y bien estructuradas, combinando lo mejor del **backend** y el **frontend** para lograr aplicaciones sólidas y de alto rendimiento.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
 ---
 
 ## 🔥 Sobre mí  
 💡 **Me apasiona** el desarrollo de software, la arquitectura de sistemas y la optimización del rendimiento.  
-🔭 **Actualmente estoy trabajando en** proyectos con **Spring Boot y Angular**.  
+🔭 **Actualmente trabajando con** **Spring Boot y Angular**.  
 🌱 **Siempre aprendiendo** nuevas tecnologías y mejores prácticas en el desarrollo web y backend.  
 ⚡ **Dato curioso:** Siempre busco optimizar el código hasta el último detalle.  
 
@@ -17,19 +21,28 @@ Soy un desarrollador con experiencia en **Java, Spring Boot, Node.js, MySQL y An
 ## 🚀 Tecnologías y herramientas  
 
 ### 🔹 Backend  
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white">
+</p>
 
 ### 🔹 Frontend  
-- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
-- TypeScript, HTML, CSS, Bootstrap  
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
+</p>
 
 ### 🔹 Herramientas  
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-- ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
-- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white">
+</p>
 
 ---
 
@@ -39,4 +52,7 @@ Soy un desarrollador con experiencia en **Java, Spring Boot, Node.js, MySQL y An
 
 ---
 
-✨ _"El código limpio es como la poesía, simple pero poderoso."_  
+<p align="center">
+  ✨ <i>"El código limpio es como la poesía, simple pero poderoso."</i> ✨  
+</p>
+
