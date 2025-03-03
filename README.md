@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Néstor Andrés! 🚀</h1>
+<h1 align="center">🚀 ¡Hola, soy Néstor Andrés! 👨‍💻</h1>
 
 <p align="center">
   <strong>Desarrollador Backend & Frontend | Apasionado por la tecnología</strong>  
@@ -12,8 +12,9 @@
 
 ## 🔥 Sobre mí  
 💡 **Me apasiona** el desarrollo de software, la arquitectura de sistemas y la optimización del rendimiento.  
-🔭 **Actualmente trabajando con** **Spring Boot y Angular**.  
+🔭 **Actualmente trabajando con** **Spring Boot, Angular y Node.js**.  
 🌱 **Siempre aprendiendo** nuevas tecnologías y mejores prácticas en el desarrollo web y backend.  
+📈 **Experiencia en:** Desarrollo de APIs, microservicios, bases de datos y pruebas automatizadas.  
 ⚡ **Dato curioso:** Siempre busco optimizar el código hasta el último detalle.  
 
 ---
@@ -24,8 +25,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-%23FF9900.svg?style=flat&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
+</p>
+
+### 🔹 Bases de Datos  
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white">
 </p>
 
 ### 🔹 Frontend  
@@ -48,11 +57,20 @@
 
 ## 📫 ¡Hablemos!  
 📧 **Correo:** atiroandres@gmail.com  
-🔗 **LinkedIn:** [nestor-andres-649794219](https://www.linkedin.com/in/nestor-andres-649794219)  
+📞 **Teléfono:** [940970572]  
+🔗 **LinkedIn:** [[nestor-andres-649794219]([https://www.linkedin.com/in/nestor-andres-649794219](https://www.linkedin.com/in/nestorat/))  ]
 
 ---
 
+### ✨ Frases de inspiración:  
+> _"Un buen programador es alguien que siempre mira en ambas direcciones antes de cruzar una calle de sentido único."_  
+> – **Doug Linder**  
+
+> _"La programación no se trata de escribir código, sino de resolver problemas."_  
+> – **John Johnson**  
+
+
 <p align="center">
-  ✨ <i>"El código limpio es como la poesía, simple pero poderoso."</i> ✨  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
