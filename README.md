@@ -1,4 +1,4 @@
-<h1 align="center">🚀 ¡Hola, soy Néstor Andrés! 👨‍💻</h1>
+<h1 align="center">🚀 ¡Hola, soy Nestor Andres! 👨‍💻</h1>
 
 <p align="center">
   <strong>Desarrollador Backend & Frontend | Apasionado por la tecnología</strong>  
