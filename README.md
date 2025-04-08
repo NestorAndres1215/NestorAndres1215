@@ -60,6 +60,10 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+  <br>MongoDB
+</td>
 
   </tr>
 </table>
