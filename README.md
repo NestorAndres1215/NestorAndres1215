@@ -39,10 +39,6 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
@@ -64,10 +60,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
+
   </tr>
 </table>
 
