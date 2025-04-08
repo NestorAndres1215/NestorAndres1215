@@ -16,7 +16,7 @@
 
 Soy un desarrollador full stack apasionado por crear soluciones tecnológicas eficientes y escalables. Mi enfoque combina sólidos conocimientos técnicos con una mentalidad orientada a resultados, siempre buscando la excelencia en cada línea de código.
 
-- 💼 &nbsp;**Especializado en** desarrollo de aplicaciones web de alto rendimiento
+- 💼 &nbsp;**Especializado en** arquitecturas de microservicios y aplicaciones web de alto rendimiento
 - 🔭 &nbsp;**Actualmente trabajando con** Spring Boot, Angular y ecosistema Node.js
 - 🌱 &nbsp;**Ampliando conocimientos en** Cloud Computing y DevOps
 - 🧠 &nbsp;**Filosofía de trabajo:** Código limpio, pruebas automatizadas y mejora continua
@@ -39,6 +39,10 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
@@ -59,6 +63,10 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
 </table>
@@ -88,6 +96,8 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ### DevOps & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -102,7 +112,18 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
+      <h3 align="center">Sistema de Gestión de Microservicios</h3>
+      <p>
+        Arquitectura de microservicios implementada con Spring Cloud, Netflix Eureka y API Gateway. Incluye autenticación OAuth2, circuit-breakers con Resilience4j y monitoreo con Prometheus.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">Portal Web E-commerce</h3>
       <p>
         Aplicación Angular con gestión de estado mediante NgRx, optimizado para móviles y con integración de pasarelas de pago. Backend con Node.js y Express, base de datos MongoDB.
