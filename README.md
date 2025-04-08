@@ -18,9 +18,10 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 
 - 💼 &nbsp;**Especializado en** arquitecturas de microservicios y aplicaciones web de alto rendimiento
 - 🔭 &nbsp;**Actualmente trabajando con** Spring Boot, Angular y ecosistema Node.js
-- 🌱 &nbsp;**Ampliando conocimientos en** Cloud Computing y DevOps
+- 🌱 &nbsp;**Ampliando conocimientos en** React y NestJS para fortalecer mi perfil full stack
 - 🧠 &nbsp;**Filosofía de trabajo:** Código limpio, pruebas automatizadas y mejora continua
-- ⚡ &nbsp;**Fun fact:** Puedo optimizar algoritmos mientras preparo el mejor café que hayas probado
+- ⚡ &nbsp;**Fun fact:**  Aunque estoy en mis primeros pasos, siempre busco aprender algo más
+- 🔧 &nbsp;**Explorando también**: Docker, microservicios y herramientas de automatización como Jenkins para mejorar el despliegue y la integración continua.
 
 ## 🛠️ &nbsp;Stack Tecnológico
 
@@ -38,10 +39,11 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
+ <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+  <br>HTML
+</td>
+
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
@@ -64,10 +66,11 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+  <br>MongoDB
+</td>
+
   </tr>
 </table>
 
@@ -77,8 +80,8 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,56 +89,58 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 ### DevOps & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SOAP UI](https://img.shields.io/badge/SOAP%20UI-1D72C2?style=for-the-badge&logo=soapui&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 📊 &nbsp;Estadísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestorat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorat&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=8&theme=radical"/>
 </p>
+
 
 ## 🌟 &nbsp;Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Gestión de Microservicios</h3>
+      <h3 align="center">Sistema de Gestión Académica</h3>
       <p>
-        Arquitectura de microservicios implementada con Spring Cloud, Netflix Eureka y API Gateway. Incluye autenticación OAuth2, circuit-breakers con Resilience4j y monitoreo con Prometheus.
+        Sistema de gestión académica desarrollado con Java Spring Boot, utilizando autenticación JWT y frontend con Angular. Incluye módulos como gestión de estudiantes, profesores, y asignación de cursos, optimizado para una experiencia fluida.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Portal Web E-commerce</h3>
+      <h3 align="center">Sistema de Gestión de Encuestas</h3>
       <p>
-        Aplicación Angular con gestión de estado mediante NgRx, optimizado para móviles y con integración de pasarelas de pago. Backend con Node.js y Express, base de datos MongoDB.
+        Plataforma para la creación y gestión de encuestas desarrollada con Node.js, React y Vite. Permite a los usuarios crear encuestas personalizadas, obtener respuestas en tiempo real y analizar resultados, con un diseño optimizado para dispositivos móviles.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
 
 ## 📚 &nbsp;Filosofía de Desarrollo
 
@@ -155,10 +160,11 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
   <a href="https://www.linkedin.com/in/nestorat/">
     <img src="https://img.shields.io/badge/-nestorat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:atiroandres@gmail.com">
-    <img src="https://img.shields.io/badge/-atiroandres@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nestorat">
+<a href="mailto:atiroandres@gmail.com">
+  <img src="https://img.shields.io/badge/-atiroandres@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+  <a href="https://github.com/NestorAndres1215">
     <img src="https://img.shields.io/badge/-nestorat-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </p>
@@ -169,5 +175,4 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 
 ---
 
-<p align="center">💻 con ❤️ por Nestor Andres | Actualizado en 2025</p>
-
+<p align="center">💻 con ❤️ por Nestor Andres </p>
