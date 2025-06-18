@@ -16,12 +16,16 @@
 
 Soy un desarrollador full stack apasionado por crear soluciones tecnológicas eficientes y escalables. Mi enfoque combina sólidos conocimientos técnicos con una mentalidad orientada a resultados, siempre buscando la excelencia en cada línea de código.
 
-- 💼 &nbsp;**Especializado en** arquitecturas de microservicios y aplicaciones web de alto rendimiento
-- 🔭 &nbsp;**Actualmente trabajando con** Spring Boot, Angular y ecosistema Node.js
-- 🌱 &nbsp;**Ampliando conocimientos en** React y NestJS para fortalecer mi perfil full stack
-- 🧠 &nbsp;**Filosofía de trabajo:** Código limpio, pruebas automatizadas y mejora continua
-- ⚡ &nbsp;**Fun fact:**  Aunque estoy en mis primeros pasos, siempre busco aprender algo más
-- 🔧 &nbsp;**Explorando también**: Docker, microservicios y herramientas de automatización como Jenkins para mejorar el despliegue y la integración continua.
+- 💼 **Especializado en** arquitecturas de microservicios y aplicaciones web de alto rendimiento  
+- 🔭 **Actualmente trabajando con** Spring Boot, Angular y ecosistema Node.js  
+- 🌱 **Ampliando conocimientos en** React y NestJS para fortalecer mi perfil full stack  
+- 🧠 **Filosofía de trabajo:** Código limpio, pruebas automatizadas y mejora continua  
+- 🔐 **Experiencia con:** Spring Security, JWT, Thymeleaf, Swagger, WebFlux, MyBatis  
+- 💾 **Bases de datos:** PostgreSQL, MySQL  
+- 💻 **Frontend skills:** HTML, CSS, JavaScript, TypeScript  
+- ⚡ **Fun fact:** Aunque estoy en mis primeros pasos, siempre busco aprender algo más  
+- 🔧 **Explorando también:** Docker, microservicios y herramientas de automatización como Jenkins para mejorar el despliegue y la integración continua  
+
 
 ## 🛠️ &nbsp;Stack Tecnológico
 
