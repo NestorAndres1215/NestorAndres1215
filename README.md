@@ -115,7 +115,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Sistema de Gestión Académica</h3>
       <p>
         Sistema de gestión académica desarrollado con Java Spring Boot, utilizando autenticación JWT y frontend con Angular. Incluye módulos como gestión de estudiantes, profesores, y asignación de cursos, optimizado para una experiencia fluida.
@@ -126,7 +126,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Sistema de Gestión de Encuestas</h3>
       <p>
         Plataforma para la creación y gestión de encuestas desarrollada con Node.js, React y Vite. Permite a los usuarios crear encuestas personalizadas, obtener respuestas en tiempo real y analizar resultados, con un diseño optimizado para dispositivos móviles.
@@ -137,8 +137,23 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
     </td>
+    <td width="33%">
+      <h3 align="center">Sistema de Notas</h3>
+      <p>
+        Aplicación para la gestión de notas académicas, desarrollada con Java Spring Boot, Thymeleaf como motor de plantillas, y autenticación mediante JWT. Utiliza JPA para la persistencia de datos en MySQL.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
+
 
 
 ## 📚 &nbsp;Filosofía de Desarrollo
