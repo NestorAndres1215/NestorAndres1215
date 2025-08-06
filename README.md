@@ -113,8 +113,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
 ![SOAP UI](https://img.shields.io/badge/SOAP%20UI-1D72C2?style=for-the-badge&logo=soapui&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
 
 
 ### 🛠️ IDEs & Herramientas de Desarrollo
