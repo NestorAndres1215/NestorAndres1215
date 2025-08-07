@@ -114,7 +114,6 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=8&theme=radical"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorAndres1215&theme=radical"/>
-  <img height="180em" src="https://komarev.com/ghpvc/?username=NestorAndres1215&label=Profile%20views&color=ff69b4&style=flat"/>
 </p>
 
 
@@ -156,6 +155,42 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Sistema de Tráilers de Películas</h3>
+      <p>
+        Aplicación web para explorar tráilers de películas, construida con Java Spring Boot y Thymeleaf. Incluye funcionalidades como búsqueda de películas, integración con APIs externas y diseño responsive.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Sistema Contable</h3>
+      <p>
+        Sistema contable web que permite gestionar ingresos, egresos y balances generales. Desarrollado con HTML, CSS y JavaScript Vanilla, con interfaz simple y enfocada en usabilidad.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Red Social</h3>
+      <p>
+        Proyecto de red social con funcionalidades de publicaciones, comentarios y perfiles de usuario. Backend con Spring Boot y frontend en Angular, usando HTML y CSS para la interfaz.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
   </tr>
