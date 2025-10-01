@@ -105,12 +105,29 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) 
 
 
-
 ## 📊 &nbsp;Estadísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical"/>
- 
+  <!-- Stats generales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <!-- Lenguajes más usados (20 lenguajes) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=20&theme=radical"/>
+</p>
+
+<p align="center">
+  <!-- Racha de contribuciones -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorAndres1215&theme=radical"/>
+</p>
+
+<p align="center">
+  <!-- Gráfico de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&theme=radical" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <!-- Trofeos -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NestorAndres1215&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 
