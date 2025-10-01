@@ -109,9 +109,8 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 ## 📊 &nbsp;Estadísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorAndres1215&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical"/>
+ 
 </p>
 
 
