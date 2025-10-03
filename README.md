@@ -131,17 +131,6 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Sistema de Gestión de Encuestas</h3>
-      <p>
-        Plataforma para la creación y gestión de encuestas desarrollada con Node.js, React y Vite. Permite a los usuarios crear encuestas personalizadas, obtener respuestas en tiempo real y analizar resultados, con un diseño optimizado para dispositivos móviles.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%">
       <h3 align="center">Sistema de Notas</h3>
       <p>
         Aplicación para la gestión de notas académicas, desarrollada con Java Spring Boot, Thymeleaf como motor de plantillas, y autenticación mediante JWT. Utiliza JPA para la persistencia de datos en MySQL.
