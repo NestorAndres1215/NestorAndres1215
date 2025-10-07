@@ -112,7 +112,7 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
   <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1" />
 
   <!-- Lenguajes principales -->
-  <img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=8&theme=radical&cache_seconds=1" />
+  <img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical&cache_seconds=1" />
 </p>
 
 
