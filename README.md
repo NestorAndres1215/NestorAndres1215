@@ -36,7 +36,7 @@ const nestor = {
             styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
         },
         databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        devOps: ["Docker", "Git", "Jenkins", "Apache Kafka"],
+        devOps: ["Docker", "Git", "Jenkins", "Apache Kafka","Apache Spark"],
         tools: ["IntelliJ IDEA", "VS Code", "Postman", "Swagger"]
     },
     architecture: ["Microservices", "REST API", "MVC", "Clean Architecture"],
