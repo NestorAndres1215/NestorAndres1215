@@ -114,7 +114,7 @@ const nestor = {
 <tr>
 <td width="50%" valign="top">
 
-### Backend Mastery
+### Backend 
 - ✅ RESTful API Design & Development
 - ✅ Microservices Architecture
 - ✅ Spring Security & JWT Authentication
@@ -125,7 +125,7 @@ const nestor = {
 </td>
 <td width="50%" valign="top">
 
-### Frontend Skills
+### Frontend 
 - ✅ Single Page Applications (SPA)
 - ✅ Component-Based Architecture
 - ✅ State Management
