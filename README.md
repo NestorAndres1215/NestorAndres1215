@@ -1,118 +1,219 @@
-# 👨‍💻 Nestor Andres | Full Stack Developer
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nestorat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestorat/)
-[![Email](https://img.shields.io/badge/Email-atiroandres@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiroandres@gmail.com)
-[![Phone](https://img.shields.io/badge/Teléfono-940970572-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51940970572)
+# 👨‍💻 Nestor Andres
+### Full Stack Developer | Java & JavaScript Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestorat/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiroandres@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NestorAndres1215)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51940970572)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6DB33F&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+React;Building+Scalable+Solutions;Clean+Code+Enthusiast" alt="Typing SVG" />
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
-## 🚀 Sobre mí
+---
 
-> *"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo de la inteligencia."* – John Ruskin
+## 🎯 Sobre Mí
 
-Desarrollador Full Stack con experiencia en la creación de soluciones tecnológicas escalables y eficientes. Mi enfoque combina sólidos conocimientos técnicos con una mentalidad orientada a resultados, priorizando código limpio y arquitecturas robustas.
+```javascript
+const nestor = {
+    role: "Full Stack Developer",
+    location: "Lima, Perú 🇵🇪",
+    code: ["Java", "JavaScript", "TypeScript", "SQL"],
+    technologies: {
+        backend: {
+            java: ["Spring Boot", "Spring Security", "Spring WebFlux", "Hibernate", "JPA"],
+            node: ["Express.js", "NestJS (learning)"]
+        },
+        frontend: {
+            frameworks: ["Angular", "React (learning)"],
+            styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
+        },
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        devOps: ["Docker", "Git", "Jenkins", "Apache Kafka"],
+        tools: ["IntelliJ IDEA", "VS Code", "Postman", "Swagger"]
+    },
+    architecture: ["Microservices", "REST API", "MVC", "Clean Architecture"],
+    currentFocus: "Building scalable microservices with Spring Boot & Angular",
+    funFact: "I believe in clean code and continuous learning 🚀"
+};
+```
 
-### 💡 Highlights
+---
 
-- 💼 **Especialización:** Arquitecturas de microservicios y aplicaciones empresariales de alto rendimiento
-- 🔭 **Stack actual:** Spring Boot, Angular, Node.js y ecosistema JavaScript/TypeScript
-- 🌱 **En aprendizaje continuo:** React, NestJS, Docker y prácticas avanzadas de DevOps
-- 🧠 **Principios:** Clean Code, TDD, SOLID y mejora continua
-- 🔐 **Backend expertise:** Spring Security, JWT, Thymeleaf, Swagger, WebFlux, MyBatis
-- 💾 **Bases de datos:** PostgreSQL, MySQL, MongoDB
-- 🛠️ **DevOps:** Docker, Jenkins, CI/CD pipelines
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Backend
+### 🔥 Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### Frontend
+### 🎨 Frontend Development
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### DevOps & Herramientas
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+### 💻 IDEs & Editors
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 </div>
 
-## 📊 Estadísticas GitHub
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NestorAndres1215&theme=radical&hide_border=true&background=0D1117&stroke=6DB33F&ring=6DB33F&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&bg_color=0D1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Professional Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Mastery
+- ✅ RESTful API Design & Development
+- ✅ Microservices Architecture
+- ✅ Spring Security & JWT Authentication
+- ✅ Database Design & Optimization
+- ✅ ORM (Hibernate, JPA, MyBatis)
+- ✅ Reactive Programming (WebFlux)
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend Skills
+- ✅ Single Page Applications (SPA)
+- ✅ Component-Based Architecture
+- ✅ State Management
+- ✅ Responsive Design
+- ✅ API Integration
+- ✅ Modern UI/UX Implementation
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117)
+### 🎯 Core Principles
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Clean Code  │  SOLID Principles  │  Design Patterns      │
+├─────────────────────────────────────────────────────────────┤
+│  TDD/BDD     │  Agile Methodology │  Continuous Learning  │
+├─────────────────────────────────────────────────────────────┤
+│  Code Review │  Documentation     │  Team Collaboration   │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-## 💻 Filosofía de Desarrollo
+---
+
+## 💡 Philosophy
 
 <div align="center">
 
-> *"Un buen programador es alguien que siempre mira en ambas direcciones antes de cruzar una calle de sentido único."*  
-> – Doug Linder
+> *"Quality is never an accident; it is always the result of intelligent effort."*  
+> **— John Ruskin**
 
-> *"La programación no se trata de escribir código, sino de resolver problemas."*  
-> – John Johnson
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> **— Martin Fowler**
 
-> *"El código simple, lógico y limpio no aparece por sí solo. Se necesita pensamiento, práctica y tiempo."*  
-> – Robert C. Martin
-
-![Coding Process](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
 
 </div>
 
-## 🎯 Enfoque Profesional
+---
 
-- ✅ **Clean Code:** Código legible, mantenible y escalable
-- ✅ **Testing:** Pruebas unitarias e integración para garantizar calidad
-- ✅ **Arquitectura:** Diseño de sistemas robustos y escalables
-- ✅ **Documentación:** APIs bien documentadas con Swagger/OpenAPI
-- ✅ **Seguridad:** Implementación de mejores prácticas en autenticación y autorización
-- ✅ **Performance:** Optimización de consultas y rendimiento de aplicaciones
-
-## 📫 Contacto
+## 🚀 Current Focus
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-nestorat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nestorat/)
-[![Email](https://img.shields.io/badge/-atiroandres@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:atiroandres@gmail.com)
-[![GitHub](https://img.shields.io/badge/-NestorAndres1215-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NestorAndres1215)
+```mermaid
+graph LR
+    A[Learning] --> B[React]
+    A --> C[NestJS]
+    A --> D[Docker]
+    B --> E[Building Projects]
+    C --> E
+    D --> E
+    E --> F[Improving Skills]
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=NestorAndres1215&style=for-the-badge&color=blue)
+</div>
+
+- 🔭 Currently working on **microservices-based projects**
+- 🌱 Learning **React, NestJS, and advanced Docker**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **Spring Boot, Angular, or Java**
+- ⚡ Fun fact: **I debug with console.log and System.out.println** 😄
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestorat/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiroandres@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NestorAndres1215)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51940970572)
+
+<br/>
+
+### 📧 **atiroandres@gmail.com** | 📱 **+51 940 970 572**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NestorAndres1215&style=for-the-badge&color=6DB33F)
+[![GitHub followers](https://img.shields.io/github/followers/NestorAndres1215?style=for-the-badge&color=6DB33F)](https://github.com/NestorAndres1215)
 
 </div>
 
@@ -120,8 +221,10 @@ Desarrollador Full Stack con experiencia en la creación de soluciones tecnológ
 
 <div align="center">
 
-**💻 Desarrollado con ❤️ por Nestor Andres**
+### ⭐️ From [NestorAndres1215](https://github.com/NestorAndres1215)
 
-*"Siempre en busca de la excelencia técnica y la innovación"*
+**💻 Crafted with passion and ☕ by Nestor Andres**
 
-</div>
+*"Transforming ideas into elegant code solutions"*
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
