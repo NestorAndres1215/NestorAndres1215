@@ -170,22 +170,7 @@ const nestor = {
 
 </div>
 
----
 
-## 🚀 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Learning] --> B[React]
-    A --> C[NestJS]
-    A --> D[Docker]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Improving Skills]
-```
 
 </div>
 
