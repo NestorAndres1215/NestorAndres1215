@@ -109,10 +109,20 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
 
 <p align="center">
   <!-- Estadísticas generales -->
-  <img width="500" height="300"src="https://githubreadmestats.vercel.app/apiusername=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1"/>
+  <img 
+    width="500" 
+    height="300"
+    src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1" 
+    alt="Estadísticas de GitHub de NestorAndres1215"
+  />
 
   <!-- Lenguajes principales -->
-  <img width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical&cache_seconds=1" />
+  <img 
+    width="300" 
+    height="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical&cache_seconds=1"
+    alt="Lenguajes más usados por NestorAndres1215"
+  />
 </p>
 
 
