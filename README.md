@@ -69,10 +69,11 @@ Soy un desarrollador full stack apasionado por crear soluciones tecnológicas ef
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="65" height="65" />
-      <br>Vite
-    </td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="65" height="65" />
+  <br>Visual Studio Code
+</td>
+
   </tr>
 </table>
 
