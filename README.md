@@ -26,10 +26,10 @@ const nestor = {
     technologies: {
         backend: {
             java: ["Spring Boot", "Spring Security", "Spring WebFlux", "Hibernate", "JPA"],
-            node: ["Express.js", "NestJS (learning)"]
+            node: ["Express.js", "NestJS "]
         },
         frontend: {
-            frameworks: ["Angular", "React (learning)"],
+            frameworks: ["Angular", "React"],
             styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
         },
         databases: ["PostgreSQL", "MySQL", "MongoDB"],
@@ -55,6 +55,7 @@ const nestor = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3A9BDC?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🎨 Frontend Development
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
