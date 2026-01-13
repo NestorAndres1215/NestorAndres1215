@@ -23,26 +23,63 @@
 
 ```javascript
 const nestor = {
-    role: "Full Stack Developer",
-    location: "Lima, Perú 🇵🇪",
-    code: ["Java", "JavaScript", "TypeScript", "SQL"],
-    technologies: {
-        backend: {
-            java: ["Spring Boot", "Spring Security", "Spring WebFlux", "Hibernate", "JPA"],
-            node: ["Express.js", "NestJS "]
-        },
-        frontend: {
-            frameworks: ["Angular", "React"],
-            styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        devOps: ["Docker", "Git", "Jenkins", "Apache Kafka","Apache Spark"],
-        tools: ["IntelliJ IDEA", "VS Code", "Postman", "Swagger"]
+  role: "Full Stack Developer",
+  location: "Lima, Perú 🇵🇪",
+  code: ["Java", "JavaScript", "TypeScript", "SQL"],
+
+  technologies: {
+    backend: {
+      java: [
+        "Spring Boot",
+        "Spring Security",
+        "Spring WebFlux",
+        "Hibernate",
+        "JPA"
+      ],
+      node: [
+        "Express.js",
+        "NestJS"
+      ]
     },
-    architecture: ["Microservices", "REST API", "MVC", "Clean Architecture"],
-    currentFocus: "Building scalable microservices with Spring Boot & Angular",
-    funFact: "I believe in clean code and continuous learning 🚀"
+
+    frontend: {
+      frameworks: ["Angular", "React"],
+      styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
+    },
+
+    databases: [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ],
+
+    devOps: [
+      "Docker",
+      "Git",
+      "Jenkins",
+      "Apache Kafka",
+      "Apache Spark"
+    ],
+
+    tools: [
+      "IntelliJ IDEA",
+      "VS Code",
+      "Postman",
+      "Swagger"
+    ]
+  },
+
+  architecture: [
+    "Microservices",
+    "REST API",
+    "MVC",
+    "Clean Architecture"
+  ],
+
+  currentFocus: "Building scalable microservices with Spring Boot & Angular",
+  funFact: "I believe in clean code and continuous learning 🚀"
 };
+
 ```
 
 ---
@@ -76,6 +113,8 @@ const nestor = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ### 🗄️ Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
