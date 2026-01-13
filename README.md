@@ -30,15 +30,10 @@ const nestor = {
   technologies: {
     backend: {
       java: [
-        "Spring Boot",
-        "Spring Security",
-        "Spring WebFlux",
-        "Hibernate",
-        "JPA"
+        "Spring Boot","Spring Security","Spring WebFlux","Hibernate","JPA"
       ],
       node: [
-        "Express.js",
-        "NestJS"
+        "Express.js","NestJS"
       ]
     },
 
@@ -48,32 +43,20 @@ const nestor = {
     },
 
     databases: [
-      "PostgreSQL",
-      "MySQL",
-      "MongoDB"
+      "PostgreSQL","MySQL","MongoDB","SQLServer"
     ],
 
     devOps: [
-      "Docker",
-      "Git",
-      "Jenkins",
-      "Apache Kafka",
-      "Apache Spark"
+      "Docker","Git","Jenkins","Apache Kafka","Apache Spark"
     ],
 
     tools: [
-      "IntelliJ IDEA",
-      "VS Code",
-      "Postman",
-      "Swagger"
+      "IntelliJ IDEA", "VS Code","Postman","Swagger"
     ]
   },
 
   architecture: [
-    "Microservices",
-    "REST API",
-    "MVC",
-    "Clean Architecture"
+    "Microservices","REST API","MVC","Clean Architecture"
   ],
 
   currentFocus: "Building scalable microservices with Spring Boot & Angular",
