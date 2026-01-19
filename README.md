@@ -25,7 +25,7 @@
 const nestor = {
   role: "Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
-  code: ["Java", "JavaScript", "TypeScript", "SQL"],
+  code: ["Java", "JavaScript", "TypeScript"],
 
   technologies: {
     backend: {
@@ -33,7 +33,7 @@ const nestor = {
         "Spring Boot","Spring Security","Spring WebFlux","Hibernate","JPA"
       ],
       node: [
-        "Express.js","NestJS"
+        "Express.js"
       ]
     },
 
@@ -43,7 +43,7 @@ const nestor = {
     },
 
     databases: [
-      "PostgreSQL","MySQL","MongoDB","SQLServer"
+      "PostgreSQL","MySQL","MongoDB"
     ],
 
     devOps: [
@@ -81,9 +81,7 @@ const nestor = {
 ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3A9BDC?style=for-the-badge&logo=auth0&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 
 ### 🎨 Frontend Development
@@ -106,8 +104,7 @@ const nestor = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 
 ### ⚙️ DevOps & Tools
@@ -130,7 +127,6 @@ const nestor = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 </div>
