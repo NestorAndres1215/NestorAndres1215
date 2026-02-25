@@ -145,7 +145,7 @@ const nestor = {
 </div>
 
 <div align="center">
-  <img width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&bg_color=0D1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&bg_color=0D1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 
