@@ -1,16 +1,8 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=header"/>
-
-```
-█▄░█ █▀▀ █▀ ▀█▀ █▀█ █▀█   █▀▀ █░█ █░░ █░░   █▀ ▀█▀ ▄▀█ █▀▀ █▄▀
-█░▀█ ██▄ ▄█ ░█░ █▄█ █▀▄   █▀░ █▄█ █▄▄ █▄▄   ▄█ ░█░ █▀█ █▄▄ █░█
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Spring+Boot+%26+NestJS;Frontend+Craftsman+%7C+React+%26+Angular;Microservices+Architect+%7C+Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA;Clean+Code+%7C+SOLID+%7C+Always+Shipping" alt="Typing SVG" />
-
-<br/>
+# 👨‍💻 Nestor Andres
+### Full Stack Developer | Java • Spring Boot • Angular • React
 <p>
 <a href="https://www.linkedin.com/in/nestorat/">
 <img src="https://img.shields.io/badge/LinkedIn-Nestor_Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
