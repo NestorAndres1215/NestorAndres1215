@@ -3,10 +3,19 @@
 # 👨‍💻 Nestor Andres
 ### Full Stack Developer | Java • Spring Boot • Angular • React
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestorat/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiroandres@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NestorAndres1215)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51940970572)
+<p>
+<a href="https://www.linkedin.com/in/nestorat/">
+<img src="https://img.shields.io/badge/LinkedIn-Nestor_Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:atiroandres@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/51940970572">
+<img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6DB33F&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+Node.js;JWT+%7C+OAuth2+%7C+EJS+%7C+Thymeleaf;Building+Scalable+Solutions;Clean+Code+Enthusiast" alt="Typing SVG" />
 
