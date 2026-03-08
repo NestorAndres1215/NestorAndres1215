@@ -145,10 +145,12 @@ const nestor = {
 ## 📊 GitHub Analytics
 
 <div align="center" style="margin-bottom: 20px;">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=FFFFFF"/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=FFFFFF"/>
-</div>
+  <!-- Stats generales -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=radical"/>
 
+  <!-- Lenguajes más usados -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&theme=radical"/>
+</div>
 <div align="center" style="margin-bottom: 20px;">
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorAndres1215&theme=radical&hide_border=true&background=0D1117&stroke=6DB33F&ring=6DB33F&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
