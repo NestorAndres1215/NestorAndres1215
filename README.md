@@ -109,7 +109,7 @@ const nestor = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=e2e8f0&ring_color=22c55e&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e2e8f0&langs_count=8&card_width=320" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e2e8f0&langs_count=10&card_width=320" />
 
 <br/>
 
