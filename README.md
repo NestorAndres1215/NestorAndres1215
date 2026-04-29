@@ -108,18 +108,17 @@ const nestor = {
 
 <div align="center">
 
+<!-- FILA 1 -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NestorAndres1215&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=e2e8f0&ring_color=22c55e&count_private=true&include_all_commits=true" />
 
 <img height="170" src="https://streak-stats.demolab.com/?user=NestorAndres1215&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=f97316&currStreakLabel=22c55e&sideLabels=22c55e&stroke=22c55e" />
 
 <br/>
 
-<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e2e8f0&langs_count=15&card_width=500" />
+<!-- FILA 2 -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorAndres1215&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e2e8f0&langs_count=15&card_width=420" />
 
-
-<br/>
-
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&area_color=22c55e20&radius=6" />
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=NestorAndres1215&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&area_color=22c55e20&radius=6" />
 
 </div>
 
